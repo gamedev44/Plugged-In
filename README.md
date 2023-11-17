@@ -81,7 +81,7 @@ This script serves as a helpful assistant for rebuilding plugins, ensuring every
 
 - othrwise you can contact me here
 -
-- ## My Discord Server: [Join Now](https://discord.gg/truU4z6RhM)
-- ## alternate server backup (https://discord.gg/wxkVKnEaSy)
+- ## My Discord Server: [Click here to Join Now](https://discord.gg/truU4z6RhM)
+- ## alternate server backup [Otherwise Try our Backup Discord](https://discord.gg/wxkVKnEaSy)
    - The original script exits and tidies up by deleting itself, leaving behind the streamlined RebuildPlugin.bat for the user's convenience.
 
