@@ -37,8 +37,8 @@ This script serves as a helpful assistant for rebuilding plugins, ensuring every
    - Optionally, it goes the extra mile and sets up a desktop shortcut for easy access.
 
 9. **Exit Original Script:**
-   - The original script exits and tidies up by deleting itself, leaving behind the streamlined RebuildPlugin.bat for the user's convenience.
 
+    
 ### __________________________________________________________________________________________________________________________________________________
 
 
@@ -78,3 +78,10 @@ This script serves as a helpful assistant for rebuilding plugins, ensuring every
 ## Troubleshooting
 
 - If you encounter issues, ensure that the script is in the correct folder and that the necessary directories exist.
+
+- othrwise you can contact me here
+-
+- ## My Discord Server: [Join Now](https://discord.gg/truU4z6RhM)
+- ## alternate server backup (https://discord.gg/wxkVKnEaSy)
+   - The original script exits and tidies up by deleting itself, leaving behind the streamlined RebuildPlugin.bat for the user's convenience.
+
